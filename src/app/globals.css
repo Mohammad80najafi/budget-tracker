@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: lemonade --default;
+  exclude: select;
+}
